@@ -29,6 +29,9 @@ status-website:
 assignees:
   - Sakretsos
 
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
 workflowSchedule:
   graphs: "5 0 * * *"
   responseTime: "5 23 * * *"
