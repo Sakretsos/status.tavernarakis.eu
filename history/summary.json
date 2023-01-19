@@ -4,9 +4,9 @@
     "url": "$NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 619,
     "timeMonth": 619,
     "timeYear": 619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "ESXI1",
