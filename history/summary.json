@@ -4,19 +4,19 @@
     "url": "$NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 571,
-    "timeWeek": 505,
-    "timeMonth": 553,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 569,
+    "timeDay": 712,
+    "timeWeek": 543,
+    "timeMonth": 558,
+    "timeYear": 569,
     "dailyMinutesDown": {
-      "2023-02-15": 0
+      "2023-02-15": 14
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 697,
-    "timeWeek": 573,
-    "timeMonth": 647,
-    "timeYear": 660,
+    "time": 663,
+    "timeDay": 766,
+    "timeWeek": 612,
+    "timeMonth": 651,
+    "timeYear": 663,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 563,
-    "timeWeek": 469,
-    "timeMonth": 530,
-    "timeYear": 545,
+    "time": 549,
+    "timeDay": 692,
+    "timeWeek": 511,
+    "timeMonth": 533,
+    "timeYear": 549,
     "dailyMinutesDown": {}
   }
 ]
