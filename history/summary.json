@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 569,
     "timeDay": 712,
     "timeWeek": 543,
     "timeMonth": 558,
     "timeYear": 569,
-    "dailyMinutesDown": {
-      "2023-02-15": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ESXI1",
