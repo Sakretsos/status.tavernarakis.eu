@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 576,
-    "timeDay": 566,
-    "timeWeek": 613,
-    "timeMonth": 581,
-    "timeYear": 576,
+    "uptimeYear": "99.98%",
+    "time": 580,
+    "timeDay": 811,
+    "timeWeek": 650,
+    "timeMonth": 585,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2023-02-16": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 665,
-    "timeDay": 650,
-    "timeWeek": 671,
-    "timeMonth": 658,
-    "timeYear": 665,
+    "time": 667,
+    "timeDay": 735,
+    "timeWeek": 681,
+    "timeMonth": 659,
+    "timeYear": 667,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 575,
-    "timeWeek": 586,
+    "time": 562,
+    "timeDay": 706,
+    "timeWeek": 606,
     "timeMonth": 563,
-    "timeYear": 559,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   }
 ]
