@@ -9,6 +9,8 @@ sites:
     url: $ESXI1
   - name: ESXI2
     url: $ESXI2
+  - name: ESXI3
+    url: $ESXI3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
