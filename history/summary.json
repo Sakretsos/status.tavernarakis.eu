@@ -46,7 +46,7 @@
     "url": "$ESXI2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-2",
-    "status": "up",
+    "status": "down",
     "uptime": "96.88%",
     "uptimeDay": "96.99%",
     "uptimeWeek": "99.57%",
