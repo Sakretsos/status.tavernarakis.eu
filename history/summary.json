@@ -83,19 +83,19 @@
     "url": "$ESXI3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-3",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 577,
-    "timeDay": 605,
-    "timeWeek": 671,
-    "timeMonth": 596,
-    "timeYear": 577,
+    "time": 576,
+    "timeDay": 506,
+    "timeWeek": 638,
+    "timeMonth": 590,
+    "timeYear": 576,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 16
     }
   }
 ]
