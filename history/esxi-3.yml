@@ -1,7 +1,7 @@
 url: $ESXI3
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-05T10:53:39.985Z
+status: up
+code: 200
+responseTime: 407
+lastUpdated: 2024-01-05T11:10:01.715Z
 startTime: 2023-05-11T22:13:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
