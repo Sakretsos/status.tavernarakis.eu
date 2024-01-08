@@ -37,11 +37,11 @@
     "url": "$ESXI1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "92.46%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "99.21%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "99.20%",
     "uptimeYear": "99.93%",
     "time": 649,
     "timeDay": 472,
@@ -49,6 +49,7 @@
     "timeMonth": 671,
     "timeYear": 649,
     "dailyMinutesDown": {
+      "2024-01-08": 0,
       "2024-01-07": 348,
       "2023-04-30": 17
     }
@@ -85,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-3",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 575,
     "timeDay": 593,
     "timeWeek": 562,
     "timeMonth": 580,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2024-01-08": 0,
+      "2024-01-08": 15,
       "2024-01-05": 16
     }
   }
