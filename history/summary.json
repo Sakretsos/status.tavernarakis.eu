@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.08%",
     "time": 586,
-    "timeDay": 599,
-    "timeWeek": 604,
+    "timeDay": 433,
+    "timeWeek": 594,
     "timeMonth": 584,
     "timeYear": 591,
     "dailyMinutesDown": {
@@ -29,8 +29,7 @@
       "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 934,
-      "2023-08-27": 638,
-      "2023-08-26": 814
+      "2023-08-27": 638
     }
   },
   {
@@ -44,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 553,
-    "timeDay": 476,
-    "timeWeek": 574,
+    "time": 551,
+    "timeDay": 409,
+    "timeWeek": 519,
     "timeMonth": 547,
-    "timeYear": 553,
+    "timeYear": 551,
     "dailyMinutesDown": {}
   },
   {
@@ -57,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-1",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.48%",
-    "time": 612,
-    "timeDay": 796,
-    "timeWeek": 574,
+    "time": 611,
+    "timeDay": 399,
+    "timeWeek": 564,
     "timeMonth": 593,
-    "timeYear": 612,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2024-05-13": 533,
       "2024-05-12": 1440,
@@ -123,8 +122,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
     "time": 529,
-    "timeDay": 472,
-    "timeWeek": 555,
+    "timeDay": 395,
+    "timeWeek": 541,
     "timeMonth": 519,
     "timeYear": 532,
     "dailyMinutesDown": {
