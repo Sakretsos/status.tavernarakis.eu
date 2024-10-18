@@ -38,9 +38,9 @@
     "url": "$VCENTER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "v-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -49,7 +49,9 @@
     "timeWeek": 591,
     "timeMonth": 569,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-18": 0
+    }
   },
   {
     "name": "ESXI1",
