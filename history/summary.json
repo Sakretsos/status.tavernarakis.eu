@@ -6,13 +6,13 @@
     "slug": "nas",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.34%",
     "time": 590,
-    "timeDay": 612,
-    "timeWeek": 595,
+    "timeDay": 467,
+    "timeWeek": 576,
     "timeMonth": 582,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -39,11 +39,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 578,
-    "timeDay": 445,
-    "timeWeek": 545,
+    "time": 577,
+    "timeDay": 441,
+    "timeWeek": 534,
     "timeMonth": 580,
-    "timeYear": 578,
+    "timeYear": 577,
     "dailyMinutesDown": {
       "2024-11-05": 18,
       "2024-10-25": 17,
@@ -56,16 +56,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-1",
     "status": "up",
-    "uptime": "94.70%",
+    "uptime": "94.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.47%",
+    "uptimeYear": "89.54%",
     "time": 595,
-    "timeDay": 436,
-    "timeWeek": 605,
+    "timeDay": 451,
+    "timeWeek": 594,
     "timeMonth": 593,
-    "timeYear": 563,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2024-12-03": 18,
       "2024-05-13": 533,
@@ -105,8 +105,7 @@
       "2024-04-09": 1440,
       "2024-04-08": 801,
       "2024-01-11": 1253,
-      "2024-01-10": 1440,
-      "2024-01-09": 1440
+      "2024-01-10": 1440
     }
   },
   {
@@ -115,15 +114,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "esxi-2",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
     "time": 536,
-    "timeDay": 454,
-    "timeWeek": 550,
-    "timeMonth": 551,
+    "timeDay": 430,
+    "timeWeek": 542,
+    "timeMonth": 550,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2024-11-05": 17,
@@ -136,8 +135,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 813,
       "2024-01-11": 1253,
-      "2024-01-10": 1440,
-      "2024-01-09": 1440
+      "2024-01-10": 1440
     }
   }
 ]
