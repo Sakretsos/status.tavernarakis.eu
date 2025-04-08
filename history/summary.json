@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "98.32%",
+    "uptime": "98.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.35%",
     "uptimeYear": "99.13%",
     "time": 590,
-    "timeDay": 437,
-    "timeWeek": 572,
-    "timeMonth": 570,
+    "timeDay": 702,
+    "timeWeek": 592,
+    "timeMonth": 571,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2025-03-19": 752,
@@ -42,9 +42,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 575,
-    "timeDay": 432,
-    "timeWeek": 503,
-    "timeMonth": 566,
+    "timeDay": 714,
+    "timeWeek": 526,
+    "timeMonth": 572,
     "timeYear": 575,
     "dailyMinutesDown": {
       "2024-11-05": 18,
@@ -64,10 +64,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "90.43%",
     "time": 572,
-    "timeDay": 438,
-    "timeWeek": 512,
-    "timeMonth": 553,
-    "timeYear": 559,
+    "timeDay": 693,
+    "timeWeek": 530,
+    "timeMonth": 549,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2024-12-03": 18,
       "2024-05-13": 533,
@@ -104,8 +104,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 801
+      "2024-04-09": 1440
     }
   },
   {
@@ -120,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 533,
-    "timeDay": 439,
-    "timeWeek": 513,
-    "timeMonth": 532,
+    "timeDay": 701,
+    "timeWeek": 532,
+    "timeMonth": 539,
     "timeYear": 537,
     "dailyMinutesDown": {
       "2024-11-05": 17
