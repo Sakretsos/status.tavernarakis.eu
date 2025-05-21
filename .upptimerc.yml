@@ -5,12 +5,8 @@ repo: status.tavernarakis.eu # The name of this repository
 sites:
   - name: NAS
     url: $NAS
-  - name: vCenter
-    url: $VCENTER
   - name: ESXI1
     url: $ESXI1
-  - name: ESXI2
-    url: $ESXI2
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
