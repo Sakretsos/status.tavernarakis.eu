@@ -6,9 +6,8 @@ sites:
   - name: NAS
     url: $NAS
   - name: ESXI1
-    check: "tcp-ping"
     url: $ESXI1
-    port: $PORT
+    __dangerous__disable_verify_host: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
