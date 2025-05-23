@@ -40,7 +40,7 @@ workflowSchedule:
   updates: "5 3 * * *"
   uptime: "5,20,35,50 * * * *"
 
-linux-runner: "[self-hosted, Linux, X64]"
+#linux-runner: "[self-hosted, Linux, X64]"
 user-agent: Sakretsos
 
 i18n:
