@@ -41,6 +41,7 @@ workflowSchedule:
   uptime: "5,20,35,50 * * * *"
 
 linux-runner: "[self-hosted, linux, X64]"
+user-agent: Sakretsos
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
