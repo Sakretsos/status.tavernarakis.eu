@@ -7,7 +7,7 @@ sites:
     url: $NAS
   - name: ESXI1
     url: $ESXI1
-    #__dangerous__insecure: true
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
