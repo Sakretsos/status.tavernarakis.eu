@@ -43,5 +43,8 @@ workflowSchedule:
 linux-runner: "[self-hosted, linux, X64]"
 user-agent: Sakretsos
 
+i18n:
+  footer: This page is [open source]($REPO)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
