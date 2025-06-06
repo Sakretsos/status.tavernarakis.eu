@@ -4,7 +4,7 @@
     "url": "$NAS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "nas",
-    "status": "up",
+    "status": "down",
     "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
@@ -16,6 +16,7 @@
     "timeMonth": 424,
     "timeYear": 571,
     "dailyMinutesDown": {
+      "2025-06-06": 0,
       "2025-06-04": 36,
       "2025-05-27": 21,
       "2025-03-19": 752,
