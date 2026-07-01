@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.65%",
     "time": 347,
-    "timeDay": 440,
-    "timeWeek": 622,
-    "timeMonth": 600,
+    "timeDay": 431,
+    "timeWeek": 597,
+    "timeMonth": 594,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2025-07-25": 224,
@@ -28,26 +28,6 @@
       "2025-11-11": 1440,
       "2025-11-10": 846,
       "2025-11-27": 18
-    }
-  },
-  {
-    "name": "ESXI",
-    "url": "$ESXI",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "esxi",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.98%",
-    "time": 658,
-    "timeDay": 413,
-    "timeWeek": 633,
-    "timeMonth": 616,
-    "timeYear": 658,
-    "dailyMinutesDown": {
-      "2026-06-27": 24
     }
   }
 ]
